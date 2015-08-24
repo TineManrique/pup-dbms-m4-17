@@ -1,0 +1,163 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+form input[type=text] {
+    width: 100%;
+    margin-top: 5px;
+    line-height: 20px;
+}
+form input[type=submit] {
+    margin-top: 5px;
+    position: relative;
+    float: right;
+}
+.btn{
+    float: right;
+    width: 110px;
+    height: 37px;
+    border-color: #000033;
+    background-color: #006699
+    
+}
+.btn:hover{
+    background-color:#33CCFF;
+
+}
+.navbar{
+    padding-top: 1%;
+    height: 75px;
+    background-color: #101010;
+}
+#submitbtn{
+    margin-top: 5%;
+    margin-right: 40%
+}
+.btn a {
+    text-decoration: none;
+    color: white;
+}
+span{
+    margin-top: -5%;
+    margin-left: 74%;
+    color: white
+}
+
+h3, h1,h2, h4{
+    text-align: center;
+}
+.form-horizontal{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 12%;
+
+}
+.td{
+    text-align: center;
+    font-style: bold; 
+    color: black;
+}
+td{
+    padding: 5px;
+    border: solid 1px #FFCC99;
+}
+
+table{
+    width: 100%;
+    table-layout: auto;
+    
+}
+.editdel{
+    margin-left: 46%; margin-top: 4%
+}
+.editdel span{
+    margin-right: 4%;
+    font-size: 20px
+}
+.center{
+    text-align: center;
+}
+.panel{
+    width: 50%;
+    margin-left: 25%;
+    outline-color: #006699; 
+}
+.container{
+  margin-top: -3%;
+}
+a{
+    text-decoration: none;
+
+}
+.brand{
+    margin-left: 7%;
+    font-size: 32px;
+    color: #FF9933;
+    outline-color: white;
+    text-decoration: none;
+   
+}
+a .brand{
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: none;
+    color:#FF6600;
+     cursor: pointer;
+}
+
+li{
+    list-style: none;
+}
+table tr:nth-child(odd) {
+  background: #FF9933;
+
+}
+#slideshow { 
+    margin: auto;
+    margin-top: -1.5%; 
+    position: relative; 
+    width: 100%; 
+    height: 100%; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);  
+}
+#logo{
+    width: 150px !important;
+    height:150px !important;
+    margin-right: 8%;
+    opacity: 1;
+}
+#logo:hover{
+    opacity: 0.8;
+}
+.logo{
+    margin-left: 27%;
+    margin-top: 3%
+  
+}
+.heading h2{
+    color: #600000;
+}
+.heading h3{
+    color:#FF6600;
+}
+.login{
+    width:20px;
+    height: 20px;
+}
+.main{
+    margin-top: 5%;
+}
+.create{
+    float: right;
+    margin-top: 5%;
+}
+.create a{
+    font-size: 15px;
+}
+.lists{
+    font-size: 15px;
+    float: right;
+}
